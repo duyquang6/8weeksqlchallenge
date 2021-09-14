@@ -80,4 +80,3 @@ inner join dannys_diner.menu menu
 on menu.product_id = s.product_id
 group by s.customer_id;
 
-
