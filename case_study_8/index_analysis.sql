@@ -1,7 +1,5 @@
 -- The index_value is a measure which can be used to reverse calculate the average composition for Fresh Segments’ clients.
-
 -- Average composition can be calculated by dividing the composition column by the index_value column rounded to 2 decimal places.
-
 -- What is the top 10 interests by the average composition for each month?
 -- For all of these top 10 interests - which interest appears the most often?
 -- What is the average of the average composition for the top 10 interests for each month?
